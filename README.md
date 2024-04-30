@@ -1,2 +1,8 @@
 # Algorithm-Practices
-Recording verifiable simple practices on algorithms that i'm interested in
+Records verifiable simple practices on algorithms that i'm interested in.
+
+## Currently works
+- Dijkstra  (Done)
+- GA
+
+
